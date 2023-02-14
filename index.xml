@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ronney Lira Down the Code</title><link>https://ronneylira.github.io/</link><description>Recent content on Ronney Lira Down the Code</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://ronneylira.github.io/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ronney Lira</title>
+    <link>https://ronneylira.github.io/</link>
+    <description>Recent content on Ronney Lira</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ronneylira.github.io/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
