@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Ronney Lira</title>
-    <link>https://ronneylira.github.io/tags/</link>
+    <link>https://ronneylira.com/tags/</link>
     <description>Recent content in Tags on Ronney Lira</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 25 Apr 2023 08:59:47 +0000</lastBuildDate><atom:link href="https://ronneylira.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Apr 2023 08:59:47 +0000</lastBuildDate><atom:link href="https://ronneylira.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>git</title>
-      <link>https://ronneylira.github.io/tags/git/</link>
+      <link>https://ronneylira.com/tags/git/</link>
       <pubDate>Tue, 25 Apr 2023 08:59:47 +0000</pubDate>
       
-      <guid>https://ronneylira.github.io/tags/git/</guid>
+      <guid>https://ronneylira.com/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>terminal</title>
-      <link>https://ronneylira.github.io/tags/terminal/</link>
+      <link>https://ronneylira.com/tags/terminal/</link>
       <pubDate>Tue, 25 Apr 2023 08:59:47 +0000</pubDate>
       
-      <guid>https://ronneylira.github.io/tags/terminal/</guid>
+      <guid>https://ronneylira.com/tags/terminal/</guid>
       <description></description>
     </item>
     

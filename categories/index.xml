@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Ronney Lira</title>
-    <link>https://ronneylira.github.io/categories/</link>
+    <link>https://ronneylira.com/categories/</link>
     <description>Recent content in Categories on Ronney Lira</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 25 Apr 2023 08:59:47 +0000</lastBuildDate><atom:link href="https://ronneylira.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Apr 2023 08:59:47 +0000</lastBuildDate><atom:link href="https://ronneylira.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>level up your terminal</title>
-      <link>https://ronneylira.github.io/categories/level-up-your-terminal/</link>
+      <link>https://ronneylira.com/categories/level-up-your-terminal/</link>
       <pubDate>Tue, 25 Apr 2023 08:59:47 +0000</pubDate>
       
-      <guid>https://ronneylira.github.io/categories/level-up-your-terminal/</guid>
+      <guid>https://ronneylira.com/categories/level-up-your-terminal/</guid>
       <description></description>
     </item>
     
