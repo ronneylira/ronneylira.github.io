@@ -2,14 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ronneylira.com/tags/azure/</loc>
+    <lastmod>2023-09-26T11:22:53+00:00</lastmod>
+  </url><url>
+    <loc>https://ronneylira.com/categories/azure/</loc>
+    <lastmod>2023-09-26T11:22:53+00:00</lastmod>
+  </url><url>
+    <loc>https://ronneylira.com/categories/</loc>
+    <lastmod>2023-09-26T11:22:53+00:00</lastmod>
+  </url><url>
+    <loc>https://ronneylira.com/posts/chained-token-credential/</loc>
+    <lastmod>2023-09-26T11:22:53+00:00</lastmod>
+  </url><url>
+    <loc>https://ronneylira.com/categories/dev-experience/</loc>
+    <lastmod>2023-09-26T11:22:53+00:00</lastmod>
+  </url><url>
+    <loc>https://ronneylira.com/tags/devxp/</loc>
+    <lastmod>2023-09-26T11:22:53+00:00</lastmod>
+  </url><url>
+    <loc>https://ronneylira.com/tags/dotnet/</loc>
+    <lastmod>2023-09-26T11:22:53+00:00</lastmod>
+  </url><url>
+    <loc>https://ronneylira.com/posts/</loc>
+    <lastmod>2023-09-26T11:22:53+00:00</lastmod>
+  </url><url>
+    <loc>https://ronneylira.com/</loc>
+    <lastmod>2023-09-26T11:22:53+00:00</lastmod>
+  </url><url>
+    <loc>https://ronneylira.com/tags/</loc>
+    <lastmod>2023-09-26T11:22:53+00:00</lastmod>
+  </url><url>
     <loc>https://ronneylira.com/archives/</loc>
     <lastmod>2023-04-25T10:07:19+00:00</lastmod>
   </url><url>
     <loc>https://ronneylira.com/search/</loc>
     <lastmod>2023-04-25T10:05:49+00:00</lastmod>
-  </url><url>
-    <loc>https://ronneylira.com/categories/</loc>
-    <lastmod>2023-04-25T15:07:31+00:00</lastmod>
   </url><url>
     <loc>https://ronneylira.com/tags/git/</loc>
     <lastmod>2023-04-25T15:07:31+00:00</lastmod>
@@ -18,15 +45,6 @@
     <lastmod>2023-04-25T15:07:31+00:00</lastmod>
   </url><url>
     <loc>https://ronneylira.com/categories/level-up-your-terminal/</loc>
-    <lastmod>2023-04-25T15:07:31+00:00</lastmod>
-  </url><url>
-    <loc>https://ronneylira.com/posts/</loc>
-    <lastmod>2023-04-25T15:07:31+00:00</lastmod>
-  </url><url>
-    <loc>https://ronneylira.com/</loc>
-    <lastmod>2023-04-25T15:07:31+00:00</lastmod>
-  </url><url>
-    <loc>https://ronneylira.com/tags/</loc>
     <lastmod>2023-04-25T15:07:31+00:00</lastmod>
   </url><url>
     <loc>https://ronneylira.com/tags/terminal/</loc>

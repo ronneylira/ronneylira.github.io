@@ -6,7 +6,17 @@
     <description>Recent content on Ronney Lira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Apr 2023 08:59:47 +0000</lastBuildDate><atom:link href="https://ronneylira.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Sep 2023 10:36:26 +0000</lastBuildDate><atom:link href="https://ronneylira.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chained Token Credential</title>
+      <link>https://ronneylira.com/posts/chained-token-credential/</link>
+      <pubDate>Tue, 26 Sep 2023 10:36:26 +0000</pubDate>
+      
+      <guid>https://ronneylira.com/posts/chained-token-credential/</guid>
+      <description>In this article, we&amp;rsquo;ll explore a handy trick that can make your development journey more enjoyable. We&amp;rsquo;re here to share some knowledge and help you understand a clever coding strategy.
+Azure and Dotnet make a fantastic team, offering a bunch of powerful tools that work seamlessly together, making your coding adventures smoother. Today, we&amp;rsquo;re diving into the world of Azure AD&amp;rsquo;s authentication system, which can make switching between development and production modes a breeze.</description>
+    </item>
+    
     
     
     <item>

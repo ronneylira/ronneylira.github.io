@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Ronney Lira</title>
-    <link>https://ronneylira.com/posts/</link>
-    <description>Recent content in Posts on Ronney Lira</description>
+    <title>devXp on Ronney Lira</title>
+    <link>https://ronneylira.com/tags/devxp/</link>
+    <description>Recent content in devXp on Ronney Lira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Sep 2023 10:36:26 +0000</lastBuildDate><atom:link href="https://ronneylira.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Sep 2023 10:36:26 +0000</lastBuildDate><atom:link href="https://ronneylira.com/tags/devxp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chained Token Credential</title>
       <link>https://ronneylira.com/posts/chained-token-credential/</link>
@@ -15,16 +15,6 @@
       <guid>https://ronneylira.com/posts/chained-token-credential/</guid>
       <description>In this article, we&amp;rsquo;ll explore a handy trick that can make your development journey more enjoyable. We&amp;rsquo;re here to share some knowledge and help you understand a clever coding strategy.
 Azure and Dotnet make a fantastic team, offering a bunch of powerful tools that work seamlessly together, making your coding adventures smoother. Today, we&amp;rsquo;re diving into the world of Azure AD&amp;rsquo;s authentication system, which can make switching between development and production modes a breeze.</description>
-    </item>
-    
-    <item>
-      <title>Git Shortcuts</title>
-      <link>https://ronneylira.com/posts/git-shortcuts/</link>
-      <pubDate>Tue, 25 Apr 2023 08:59:47 +0000</pubDate>
-      
-      <guid>https://ronneylira.com/posts/git-shortcuts/</guid>
-      <description>In this article, I&amp;rsquo;m going to cover handy shortcuts that can make your life in using git in the terminal faster and more convenient.
-I really love using Windows Terminal, it allows you to use any type of shell that you want, customize it, and extend it to the limit of your own imagination. I cannot recommend enough the great article from Scott Hanselman that teaches you how to unlock most of the potential within Windows Terminal, really making it your own.</description>
     </item>
     
   </channel>
