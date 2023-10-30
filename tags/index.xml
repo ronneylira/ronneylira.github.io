@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Ronney Lira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Sep 2023 10:36:26 +0000</lastBuildDate><atom:link href="https://ronneylira.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Oct 2023 10:50:15 +0100</lastBuildDate><atom:link href="https://ronneylira.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>devops</title>
+      <link>https://ronneylira.com/tags/devops/</link>
+      <pubDate>Mon, 30 Oct 2023 10:50:15 +0100</pubDate>
+      
+      <guid>https://ronneylira.com/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dotnet</title>
+      <link>https://ronneylira.com/tags/dotnet/</link>
+      <pubDate>Mon, 30 Oct 2023 10:50:15 +0100</pubDate>
+      
+      <guid>https://ronneylira.com/tags/dotnet/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>azure</title>
       <link>https://ronneylira.com/tags/azure/</link>
@@ -26,15 +44,6 @@
     </item>
     
     <item>
-      <title>dotnet</title>
-      <link>https://ronneylira.com/tags/dotnet/</link>
-      <pubDate>Tue, 26 Sep 2023 10:36:26 +0000</pubDate>
-      
-      <guid>https://ronneylira.com/tags/dotnet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>git</title>
       <link>https://ronneylira.com/tags/git/</link>
       <pubDate>Tue, 25 Apr 2023 08:59:47 +0000</pubDate>
@@ -49,6 +58,15 @@
       <pubDate>Tue, 25 Apr 2023 08:59:47 +0000</pubDate>
       
       <guid>https://ronneylira.com/tags/terminal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cd/ci</title>
+      <link>https://ronneylira.com/tags/cd/ci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ronneylira.com/tags/cd/ci/</guid>
       <description></description>
     </item>
     
