@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>devXp on Ronney Lira</title>
     <link>https://ronneylira.com/tags/devxp/</link>
     <description>Recent content in devXp on Ronney Lira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Sep 2023 10:36:26 +0000</lastBuildDate><atom:link href="https://ronneylira.com/tags/devxp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Sep 2023 10:36:26 +0000</lastBuildDate>
+    <atom:link href="https://ronneylira.com/tags/devxp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chained Token Credential</title>
       <link>https://ronneylira.com/posts/chained-token-credential/</link>
       <pubDate>Tue, 26 Sep 2023 10:36:26 +0000</pubDate>
-      
       <guid>https://ronneylira.com/posts/chained-token-credential/</guid>
       <description>In this article, we&amp;rsquo;ll explore a handy trick that can make your development journey more enjoyable. We&amp;rsquo;re here to share some knowledge and help you understand a clever coding strategy.
 Azure and Dotnet make a fantastic team, offering a bunch of powerful tools that work seamlessly together, making your coding adventures smoother. Today, we&amp;rsquo;re diving into the world of Azure AD&amp;rsquo;s authentication system, which can make switching between development and production modes a breeze.</description>
     </item>
-    
   </channel>
 </rss>
