@@ -3,7 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ronneylira.com/categories/</loc>
-    <lastmod>2023-10-30T10:48:17+00:00</lastmod>
+    <lastmod>2024-01-11T15:41:11+00:00</lastmod>
+  </url><url>
+    <loc>https://ronneylira.com/tags/git/</loc>
+    <lastmod>2024-01-11T15:41:11+00:00</lastmod>
+  </url><url>
+    <loc>https://ronneylira.com/posts/gitleaks/</loc>
+    <lastmod>2024-01-11T15:41:11+00:00</lastmod>
+  </url><url>
+    <loc>https://ronneylira.com/posts/</loc>
+    <lastmod>2024-01-11T15:41:11+00:00</lastmod>
+  </url><url>
+    <loc>https://ronneylira.com/</loc>
+    <lastmod>2024-01-11T15:41:11+00:00</lastmod>
+  </url><url>
+    <loc>https://ronneylira.com/tags/secrets/</loc>
+    <lastmod>2024-01-11T15:41:11+00:00</lastmod>
+  </url><url>
+    <loc>https://ronneylira.com/categories/security/</loc>
+    <lastmod>2024-01-11T15:41:11+00:00</lastmod>
+  </url><url>
+    <loc>https://ronneylira.com/tags/</loc>
+    <lastmod>2024-01-11T15:41:11+00:00</lastmod>
   </url><url>
     <loc>https://ronneylira.com/tags/devops/</loc>
     <lastmod>2023-10-30T10:48:17+00:00</lastmod>
@@ -18,15 +39,6 @@
     <lastmod>2023-10-30T10:48:17+00:00</lastmod>
   </url><url>
     <loc>https://ronneylira.com/categories/pipelines/</loc>
-    <lastmod>2023-10-30T10:48:17+00:00</lastmod>
-  </url><url>
-    <loc>https://ronneylira.com/posts/</loc>
-    <lastmod>2023-10-30T10:48:17+00:00</lastmod>
-  </url><url>
-    <loc>https://ronneylira.com/</loc>
-    <lastmod>2023-10-30T10:48:17+00:00</lastmod>
-  </url><url>
-    <loc>https://ronneylira.com/tags/</loc>
     <lastmod>2023-10-30T10:48:17+00:00</lastmod>
   </url><url>
     <loc>https://ronneylira.com/tags/azure/</loc>
@@ -49,9 +61,6 @@
   </url><url>
     <loc>https://ronneylira.com/search/</loc>
     <lastmod>2023-04-25T10:05:49+00:00</lastmod>
-  </url><url>
-    <loc>https://ronneylira.com/tags/git/</loc>
-    <lastmod>2023-04-25T15:07:31+00:00</lastmod>
   </url><url>
     <loc>https://ronneylira.com/posts/git-shortcuts/</loc>
     <lastmod>2023-04-25T15:07:31+00:00</lastmod>
