@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cd/ci on Ronney Lira</title>
+    <title>Cd/Ci on Ronney Lira</title>
     <link>https://ronneylira.com/tags/cd/ci/</link>
-    <description>Recent content in cd/ci on Ronney Lira</description>
+    <description>Recent content in Cd/Ci on Ronney Lira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Mon, 30 Oct 2023 10:50:15 +0100</lastBuildDate>
     <atom:link href="https://ronneylira.com/tags/cd/ci/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NU5026: The file to be packed was not found on disk</title>

@@ -6,8 +6,17 @@
     <description>Recent content on Ronney Lira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jan 2024 15:44:11 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 10:21:39 +0100</lastBuildDate>
     <atom:link href="https://ronneylira.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024 03 06 Build Performance With Roslyn</title>
+      <link>https://ronneylira.com/posts/build-performance-roslyn/</link>
+      <pubDate>Wed, 06 Mar 2024 10:21:39 +0100</pubDate>
+      <guid>https://ronneylira.com/posts/build-performance-roslyn/</guid>
+      <description>Roslyn has been kicking around for a couple of years now, and it&amp;rsquo;s got some seriously cool tricks up its sleeve for how you build and keep your code in line.
+I&amp;rsquo;m blown away by how these new goodies with .NET aren&amp;rsquo;t just for the new stack (you know, dotnet core and all that jazz), but they&amp;rsquo;re also giving a boost to the old classics we still rely on.
+In my current gig, we&amp;rsquo;ve got this huge monolithic app that&amp;rsquo;s a real time hog.</description>
+    </item>
     <item>
       <title>Gitleaks</title>
       <link>https://ronneylira.com/posts/gitleaks/</link>
