@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on Ronney Lira</title>
+    <link>https://ronneylira.com/tags/windows/</link>
+    <description>Recent content in Windows on Ronney Lira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ronneylira.com/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Those Green Verified Badges: GPG Commit Signing on Windows That Actually Works</title>
+      <link>https://ronneylira.com/posts/2025-09-10-github-sign-commits-windows/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://ronneylira.com/posts/2025-09-10-github-sign-commits-windows/</guid>
+      <description>In this article, I&amp;#39;m going to cover the complete setup for GPG commit signing on Windows, including the wrapper script solution that actually works.</description>
+    </item>
+  </channel>
+</rss>

@@ -6,48 +6,55 @@
     <description>Recent content on Ronney Lira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Mar 2024 10:21:39 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ronneylira.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Those Green Verified Badges: GPG Commit Signing on Windows That Actually Works</title>
+      <link>https://ronneylira.com/posts/2025-09-10-github-sign-commits-windows/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://ronneylira.com/posts/2025-09-10-github-sign-commits-windows/</guid>
+      <description>In this article, I&amp;#39;m going to cover the complete setup for GPG commit signing on Windows, including the wrapper script solution that actually works.</description>
+    </item>
     <item>
       <title>Build Performance With Roslyn</title>
       <link>https://ronneylira.com/posts/build-performance-roslyn/</link>
       <pubDate>Wed, 06 Mar 2024 10:21:39 +0100</pubDate>
       <guid>https://ronneylira.com/posts/build-performance-roslyn/</guid>
-      <description>Roslyn has been kicking around for a couple of years now, and it&amp;rsquo;s got some seriously cool tricks up its sleeve for how you build and keep your code in line.
-I&amp;rsquo;m blown away by how these new goodies with .NET aren&amp;rsquo;t just for the new stack (you know, dotnet core and all that jazz), but they&amp;rsquo;re also giving a boost to the old classics we still rely on.
-In my current company, we&amp;rsquo;ve got a monolithic app that&amp;rsquo;s a real time hog.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://learn.microsoft.com/en-us/dotnet/csharp/roslyn-sdk/&#34;&gt;Roslyn&lt;/a&gt; has been kicking around for a couple of years now, and it&amp;rsquo;s got some seriously cool tricks up its sleeve for how you build and keep your code in line.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m blown away by how these new goodies with .NET aren&amp;rsquo;t just for the new stack (you know, dotnet core and all that jazz), but they&amp;rsquo;re also giving a boost to the old classics we still rely on.&lt;/p&gt;
+&lt;p&gt;In my current company, we&amp;rsquo;ve got a monolithic app that&amp;rsquo;s a real time hog. It takes a solid 15s to clean, a painful 80s to build, and a whopping 5 minutes to load up for the first time in many of the developer&amp;rsquo;s laptops. And that&amp;rsquo;s not just because the solution&amp;rsquo;s a beast – it&amp;rsquo;s all the dependencies, caching, and ASP.NET doing its runtime compiling too. Talk about putting a damper on the whole code-test-run cycle 😰.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gitleaks</title>
       <link>https://ronneylira.com/posts/gitleaks/</link>
       <pubDate>Thu, 11 Jan 2024 15:44:11 +0100</pubDate>
       <guid>https://ronneylira.com/posts/gitleaks/</guid>
-      <description>I&amp;rsquo;ve put in some effort in recent months to remove secrets from multiple legacy code bases. That was the easy part, the though part is to change culture to prevent new secrets from leaking into the codebase in the future.
-Luckily there are tools to help out with that: Gitleaks was a cool finding. It helps to find secrets before you commit them using different regular expressions that you can also extend.</description>
+      <description>&lt;p&gt;I&amp;rsquo;ve put in some effort in recent months to remove secrets from multiple legacy code bases. That was the easy part, the though part is to change culture to prevent new secrets from leaking into the codebase in the future.&lt;/p&gt;
+&lt;p&gt;Luckily there are tools to help out with that: &lt;a href=&#34;https://github.com/gitleaks/gitleaks&#34;&gt;Gitleaks&lt;/a&gt; was a cool finding. It helps to find secrets before you commit them using different regular expressions that you can also extend.&lt;/p&gt;</description>
     </item>
     <item>
       <title>NU5026: The file to be packed was not found on disk</title>
       <link>https://ronneylira.com/posts/nu5025-error-the-file-to-be-packed-was-not-found-on-disk/</link>
       <pubDate>Mon, 30 Oct 2023 10:50:15 +0100</pubDate>
       <guid>https://ronneylira.com/posts/nu5025-error-the-file-to-be-packed-was-not-found-on-disk/</guid>
-      <description>For a long time, our company relied on MyGet as our private package repository. However, a recent outage caused a 24-hour delay in our work, so we&amp;rsquo;ve decided to stop using MyGet and switch to GitHub Artifacts as our new provider.
-This situation presented us with an excellent chance to enhance the quality of our pipelines by implementing some standard tools and protecting us from the risks associated with broad access to these resources.</description>
+      <description>&lt;p&gt;For a long time, our company relied on MyGet as our private package repository. However, a recent outage caused a 24-hour delay in our work, so we&amp;rsquo;ve decided to stop using MyGet and switch to GitHub Artifacts as our new provider.&lt;/p&gt;
+&lt;p&gt;This situation presented us with an excellent chance to enhance the quality of our pipelines by implementing some standard tools and protecting us from the risks associated with broad access to these resources.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chained Token Credential</title>
       <link>https://ronneylira.com/posts/chained-token-credential/</link>
       <pubDate>Tue, 26 Sep 2023 10:36:26 +0000</pubDate>
       <guid>https://ronneylira.com/posts/chained-token-credential/</guid>
-      <description>In this article, we&amp;rsquo;ll explore a handy trick that can make your development journey more enjoyable. We&amp;rsquo;re here to share some knowledge and help you understand a clever coding strategy.
-Azure and Dotnet make a fantastic team, offering a bunch of powerful tools that work seamlessly together, making your coding adventures smoother. Today, we&amp;rsquo;re diving into the world of Azure AD&amp;rsquo;s authentication system, which can make switching between development and production modes a breeze.</description>
+      <description>&lt;p&gt;In this article, we&amp;rsquo;ll explore a handy trick that can make your development journey more enjoyable. We&amp;rsquo;re here to share some knowledge and help you understand a clever coding strategy.&lt;/p&gt;
+&lt;p&gt;Azure and Dotnet make a fantastic team, offering a bunch of powerful tools that work seamlessly together, making your coding adventures smoother. Today, we&amp;rsquo;re diving into the world of Azure AD&amp;rsquo;s authentication system, which can make switching between development and production modes a breeze.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Git Shortcuts</title>
       <link>https://ronneylira.com/posts/git-shortcuts/</link>
       <pubDate>Tue, 25 Apr 2023 08:59:47 +0000</pubDate>
       <guid>https://ronneylira.com/posts/git-shortcuts/</guid>
-      <description>In this article, I&amp;rsquo;m going to cover handy shortcuts that can make your life in using git in the terminal faster and more convenient.
-I really love using Windows Terminal, it allows you to use any type of shell that you want, customize it, and extend it to the limit of your own imagination. I cannot recommend enough the great article from Scott Hanselman that teaches you how to unlock most of the potential within Windows Terminal, really making it your own.</description>
+      <description>&lt;p&gt;In this article, I&amp;rsquo;m going to cover handy shortcuts that can make your life in using git in the terminal faster and more convenient.&lt;/p&gt;
+&lt;p&gt;I really love using &lt;a href=&#34;https://github.com/microsoft/terminal&#34;&gt;Windows Terminal&lt;/a&gt;, it allows you to use any type of shell that you want, &lt;a href=&#34;https://ohmyposh.dev/&#34;&gt;customize&lt;/a&gt; it, and &lt;a href=&#34;https://github.com/PowerShell/PSReadLine&#34;&gt;extend it&lt;/a&gt; to the limit of your own imagination. I cannot recommend enough the great article from &lt;a href=&#34;https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal&#34;&gt;Scott Hanselman&lt;/a&gt; that teaches you how to unlock most of the potential within Windows Terminal, really making it your own.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -13,16 +13,16 @@
       <link>https://ronneylira.com/posts/nu5025-error-the-file-to-be-packed-was-not-found-on-disk/</link>
       <pubDate>Mon, 30 Oct 2023 10:50:15 +0100</pubDate>
       <guid>https://ronneylira.com/posts/nu5025-error-the-file-to-be-packed-was-not-found-on-disk/</guid>
-      <description>For a long time, our company relied on MyGet as our private package repository. However, a recent outage caused a 24-hour delay in our work, so we&amp;rsquo;ve decided to stop using MyGet and switch to GitHub Artifacts as our new provider.
-This situation presented us with an excellent chance to enhance the quality of our pipelines by implementing some standard tools and protecting us from the risks associated with broad access to these resources.</description>
+      <description>&lt;p&gt;For a long time, our company relied on MyGet as our private package repository. However, a recent outage caused a 24-hour delay in our work, so we&amp;rsquo;ve decided to stop using MyGet and switch to GitHub Artifacts as our new provider.&lt;/p&gt;
+&lt;p&gt;This situation presented us with an excellent chance to enhance the quality of our pipelines by implementing some standard tools and protecting us from the risks associated with broad access to these resources.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chained Token Credential</title>
       <link>https://ronneylira.com/posts/chained-token-credential/</link>
       <pubDate>Tue, 26 Sep 2023 10:36:26 +0000</pubDate>
       <guid>https://ronneylira.com/posts/chained-token-credential/</guid>
-      <description>In this article, we&amp;rsquo;ll explore a handy trick that can make your development journey more enjoyable. We&amp;rsquo;re here to share some knowledge and help you understand a clever coding strategy.
-Azure and Dotnet make a fantastic team, offering a bunch of powerful tools that work seamlessly together, making your coding adventures smoother. Today, we&amp;rsquo;re diving into the world of Azure AD&amp;rsquo;s authentication system, which can make switching between development and production modes a breeze.</description>
+      <description>&lt;p&gt;In this article, we&amp;rsquo;ll explore a handy trick that can make your development journey more enjoyable. We&amp;rsquo;re here to share some knowledge and help you understand a clever coding strategy.&lt;/p&gt;
+&lt;p&gt;Azure and Dotnet make a fantastic team, offering a bunch of powerful tools that work seamlessly together, making your coding adventures smoother. Today, we&amp;rsquo;re diving into the world of Azure AD&amp;rsquo;s authentication system, which can make switching between development and production modes a breeze.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

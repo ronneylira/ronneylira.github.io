@@ -13,8 +13,8 @@
       <link>https://ronneylira.com/posts/nu5025-error-the-file-to-be-packed-was-not-found-on-disk/</link>
       <pubDate>Mon, 30 Oct 2023 10:50:15 +0100</pubDate>
       <guid>https://ronneylira.com/posts/nu5025-error-the-file-to-be-packed-was-not-found-on-disk/</guid>
-      <description>For a long time, our company relied on MyGet as our private package repository. However, a recent outage caused a 24-hour delay in our work, so we&amp;rsquo;ve decided to stop using MyGet and switch to GitHub Artifacts as our new provider.
-This situation presented us with an excellent chance to enhance the quality of our pipelines by implementing some standard tools and protecting us from the risks associated with broad access to these resources.</description>
+      <description>&lt;p&gt;For a long time, our company relied on MyGet as our private package repository. However, a recent outage caused a 24-hour delay in our work, so we&amp;rsquo;ve decided to stop using MyGet and switch to GitHub Artifacts as our new provider.&lt;/p&gt;
+&lt;p&gt;This situation presented us with an excellent chance to enhance the quality of our pipelines by implementing some standard tools and protecting us from the risks associated with broad access to these resources.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
